@@ -1,0 +1,7 @@
+{
+  "postgres.pg_db": "stantech_db",
+  "postgres.pg_user": "postgres",
+  "postgres.pg_password": "qwertyuiop",
+  "postgres.pg_host": "localhost",
+  "postgres.pg_port": 5432
+}

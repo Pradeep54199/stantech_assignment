@@ -1,0 +1,32 @@
+# ========================
+# CORE FRAMEWORK
+# ========================
+fastapi[all]
+starlette
+
+# ========================
+# DATABASE + ORM
+# ========================
+SQLAlchemy
+SQLAlchemy-Utils
+psycopg2-binary                 
+sqlalchemy[asyncio]
+json
+
+
+
+# ========================
+# UTILITIES
+# ========================
+pydash
+
+# ========================
+# TESTING
+# ========================
+pytest
+pytest-asyncio
+pytest-mock
+pytest-cov
+pytest-order
+mock
+httpx
